@@ -1,0 +1,19 @@
+INSTRUCCIONES DE INSTALACIÓN
+
+Este proyecto requiere PHP 7.0 o superior y una base de datos MySQL.
+
+PASOS PARA INSTALAR EL PROYECTO
+
+1. Descarga el proyecto desde el repositorio de GitHub.
+
+2. Descomprime el archivo descargado en el directorio raíz de tu servidor web local o en tu servidor de alojamiento web.
+
+3. Crea una base de datos en MySQL para el proyecto.
+
+4. Configura la conexión a la base de datos en el archivo "db.php" que se encuentra en el directorio raíz del proyecto, reemplazando los valores por los de tu propia configuración y en el archivo index.php para la validacion de usuario y contraseña.
+
+5. Abre el proyecto en tu navegador web escribiendo la URL correspondiente a tu servidor web loca.
+
+VERSIÓN DE PHP Y BASE DE DATOS
+
+Este proyecto ha sido desarrollado y probado en PHP versión 7.4 y utiliza una base de datos MySQL versión 8.2.3 Se recomienda utilizar una versión de PHP y MySQL compatibles con las especificaciones del proyecto para evitar errores y problemas de compatibilidad.
